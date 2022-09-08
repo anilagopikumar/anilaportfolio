@@ -37,7 +37,7 @@ const Portfolio = () => {
     <article className='portfolio__details'>
     <BsPatchCheckFill className='portfolio__details-icon'/>
     <div>
-    <h4>B.E - IT - JNTU , India</h4>
+    <h4>B.E - IT - JNTUH , India</h4>
     </div>
     </article>
     <article className='portfolio__details'>
