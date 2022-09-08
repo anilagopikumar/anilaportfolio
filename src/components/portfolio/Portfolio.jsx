@@ -13,10 +13,9 @@ const Portfolio = () => {
     <article className='portfolio__details'>
     <BsPatchCheckFill className='portfolio__details-icon'/>
     <div>
-    <h4>SDE - Prolifics , India</h4>
+    <h4>SDE - I - Prolifics , India</h4>
     </div>
     </article>
-    <h5>Internships</h5>
     <article className='portfolio__details'>
     <BsPatchCheckFill className='portfolio__details-icon'/>
     <div>
